@@ -1,0 +1,27 @@
+tw-story{
+  background-color: #212517;
+}
+
+tw-link {
+    color: #F2F2EF;
+    padding: 10px;
+    border-radius: 10px;
+  	border: inset 3px #F2F2EF
+}
+
+tw-link:hover {
+    color: #DED3A6;
+  	border: inset 3px #DED3A6
+}
+
+.visited{
+  	color: #F2F2EF;
+    padding: 10px;
+    border-radius: 5px;
+  	border: inset 3px #F2F2EF
+}
+
+.visited:hover{
+  	color: #DED3A6;
+  	border: inset 3px #DED3A6
+}
